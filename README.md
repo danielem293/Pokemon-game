@@ -1,4 +1,4 @@
-# Pok-mon-game
+# Pokemon-game
 Welcome to Pokedex Manager 3000, a thrilling console-based system for:
 
 Creating your own Pokémon trainers (Owners),
