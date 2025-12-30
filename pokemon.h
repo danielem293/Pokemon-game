@@ -1,5 +1,5 @@
-#ifndef EX6_H
-#define EX6_H
+#ifndef pokemon_H
+#define pokemon_H
 
 #include <ctype.h>
 #include <stdio.h>
@@ -614,4 +614,5 @@ static const PokemonData pokedex[] = {
     {150, "Mewtwo", PSYCHIC, 106, 110, CANNOT_EVOLVE},
     {151, "Mew", PSYCHIC, 100, 100, CANNOT_EVOLVE}};
 
-#endif // EX6_H
+#endif // pokemon_H
+
