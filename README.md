@@ -20,15 +20,6 @@ Two owners walk into a bar; only one walks out –– with both Pokedexes combin
 Circular Linked List
 Because life is a circle. Also because we want you to practice. You can loop around and around the owners like a carnival ride.
 
-Getting Started
-Compile
-Use your favorite modern or ancient build tools. Something like: gcc -Wall -Wextra -Werror -g -std=c99 ex6.c -o ex6 Or pray to the compiler gods that everything runs.
-
-Run
-valgrind ./ex6 < input.txt
-
-Then follow the prompts.
-
 Enter owners’ names,
 Insert Pokémon,
 Evolve them or make them brawl in the ring,
